@@ -1,0 +1,5 @@
+No
+Light
+Moderate
+Heavy
+Severe
